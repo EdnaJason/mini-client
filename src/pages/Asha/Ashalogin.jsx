@@ -2,7 +2,7 @@ import { Form,Button,Input,Checkbox, message } from 'antd'
 import axios from 'axios'
 import React from 'react'
 import { useNavigate } from 'react-router'
-import api from '../../components/api.jsX'
+import api from '../../components/api.jsx'
 
 const Ashalogin = () => {
   const navigate = useNavigate()
