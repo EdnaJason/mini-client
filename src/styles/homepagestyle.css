@@ -1,0 +1,221 @@
+body{
+  color: white;
+}
+img {
+   width: 100px;
+    border-radius: 50px;
+}
+  .circle {
+    position: absolute;
+    width: 688px;
+    height: 688px;
+    top: -306px;
+    left: -250px;
+    border-radius: 50%;
+    background-color: rgba(98, 105, 164, 0.72);
+    filter: blur(300px);
+  }
+
+  .heading1{
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 52px;
+    top: 662px;
+    left: 532px;
+    margin-top: 130px;
+    padding-bottom: 30px;
+  }
+
+  .option{
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    top: 557px;
+    left: 554px;
+    
+  }
+
+
+.visitimg {
+    position: relative;
+    left: 942px;
+    top: 408px;
+    width: 107px;
+    height: 107px;
+  }
+  .nurseimg {
+    position: relative;
+    left: 956px;
+    top: 720px;
+    width: 83px;
+    height: 97px;
+  }
+  .stockimg {
+    position: relative;
+    left: 417px;
+    top: 724px;
+    width: 92px;
+    height: 87px;
+  }
+  .patientimg {
+    position: relative;
+    left: 394px;
+    top: 397px;
+    width: 131px;
+    height: 131px;
+  }
+p.name{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Poppins',sans-serif;
+    font-size: 35px;
+    top: 15px;
+    left: 177px;
+    font-weight: bold;
+}
+p.center{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Noto Sans Bengali UI';
+    font-size: 16px;
+    top: 75px;
+    left: 177px;
+    font-weight: lighter;
+}
+p.admin{
+    font-weight: 600;
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+    top: 174px;
+    left: 390px;
+}
+p.home{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Noto Nastaliq Urdu';
+    font-size: 29px;
+    top: 21px;
+    left: 954px;
+    font-weight: 100;
+}
+p.about{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Noto Nastaliq Urdu';
+    font-size: 29px;
+    top: 21px;
+    left: 1122px;
+    font-weight: 100;
+}
+p.logout{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Noto Nastaliq Urdu';
+    font-size: 29px;
+    top: 21px;
+    left: 1292px;
+    font-weight: 100;
+}
+p.patients{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Poppins',sans-serif;
+    font-size: 36px;
+    top: 505px;
+    left: 350px;
+}
+p.stock{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Poppins',sans-serif;
+    font-size: 36px;
+    top: 815px;
+    left: 360px;
+}
+p.visit{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Poppins',sans-serif;
+    font-size: 36px;
+    top: 505px;
+    left: 879px;
+}
+p.staff{
+    position: absolute;
+    color: #FFFFFF;
+    font-family: 'Poppins',sans-serif;
+    font-size: 36px;
+    top: 815px;
+    left: 900px;
+}
+body {
+    background-color: #1B2143;
+    background-size: 1440px 1024px;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .circle1 {
+    position: absolute;
+    width: 688px;
+    height: 688px;
+    top: -306px;
+    left: -250px;
+    border-radius: 50%;
+    background-color: rgba(98, 105, 164, 0.72);
+    filter: blur(300px);
+  }
+  .circle2 {
+    position: absolute;
+    width: 572px;
+    height: 572px;
+    top: 758px;
+    left: -97px;
+    border-radius: 50%;
+    background-color: rgba(98, 105, 164, 0.72);
+    filter: blur(300px);
+  }
+  .circle3 {
+    position: absolute;
+    width: 953px;
+    height: 976px;
+    top: -40px;
+    left: 879px;
+    border-radius: 50%;
+    background-color: rgba(98, 105, 164, 0.72);
+    filter: blur(300px);
+  }
+  .rounded-rectangle1 {
+    position: absolute;
+    width: 486px;
+    height: 267px;
+    border-radius: 41px;
+    background-color: rgba(219, 219, 249, 0.44);
+    top: 356px;
+    left: 213px
+  }
+  .rounded-rectangle2 {
+    position: absolute;
+    width: 486px;
+    height: 267px;
+    border-radius: 41px;
+    background-color: rgba(219, 219, 249, 0.44);
+    top: 356px;
+    left: 753px
+  }
+  .rounded-rectangle3 {
+    position: absolute;
+    width: 486px;
+    height: 267px;
+    border-radius: 41px;
+    background-color: rgba(219, 219, 249, 0.44);
+    top: 657px;
+    left: 213px
+  }
+  .rounded-rectangle4 {
+    position: absolute;
+    width: 486px;
+  }
